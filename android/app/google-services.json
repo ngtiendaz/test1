@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144339794995",
+    "project_id": "zingproject",
+    "storage_bucket": "zingproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144339794995:android:904ca64ed3eebc80afb746",
+        "android_client_info": {
+          "package_name": "com.example.zing_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNkGYDWW4yqKYQgNFYtMB56DJovgQ4qzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
